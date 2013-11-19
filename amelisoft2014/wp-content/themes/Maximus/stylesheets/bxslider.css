@@ -1,0 +1,147 @@
+/* -------------------------- BxSlider ------------------------------------- */
+
+.bxslider_container {
+				width:870px;
+				height:405px;
+				margin:0 auto;
+				}
+
+.bxslider_wrap	{
+				width:870px;
+				height:405px;
+				margin:0 auto;
+				padding:0 65px;
+				overflow:hidden;
+				position:relative;
+				}
+				
+.macbook		{
+				width:310px;
+				height:190px;
+				margin-right:25px;
+				padding:21px 71px 68px 73px;
+				overflow:hidden;
+				float:left;
+				background:url(../images/macbook_sm.png) 0 0 no-repeat;
+				}
+				
+.ipad			{
+				width:217px;
+				height:285px;
+				margin:-57px 40px 0 63px;
+				padding:43px 36px 67px 37px;
+				overflow:hidden;
+				float:left;
+				background:url(../images/ipad_sm.png) 0 0 no-repeat;
+				}
+				
+.iphone			{
+				width:295px;
+				height:245px;
+				top:0;
+				left:63px;
+				margin-top:-63px;
+				padding:63px 15px 92px 20px;
+				overflow:hidden;
+				position:absolute;
+				z-index:100;
+				background:url(../images/iphone_sm.png) 0 0 no-repeat;
+				}
+				
+.iphone_pic		{
+				position:absolute;
+				top:0px;
+				left:83px;
+				z-index:99;
+				}
+				
+.iphone_pic2	{
+				position:absolute;
+				top:28px;
+				left:248px;
+				z-index:98;
+				}
+				
+ul#slides		{
+				margin:0;
+				padding:0;
+				list-style:none;
+				}
+				
+ul#slides li	{
+				width:870px;
+				margin:65px 0 0;
+				padding:0;
+				background:none;
+				position:relative;
+				}
+				
+.bxslidecont	{
+				padding:5px 45px 10px 25px;
+				color:#75797E;
+				}
+				
+.bxslidecont_ip	{
+				padding:5px 45px 10px 425px;
+				color:#75797E;
+				}
+
+.bxslidecont h3,
+.bxslidecont_ip h3	{
+				color:#2A313A;
+				font-size:2.8em;
+				}
+				
+.bxslidecont p,
+.bxslidecont_ip p	{
+				font-size:1.5em;
+				line-height:1.5em;
+				font-weight:normal;
+				padding-bottom:1.5em;
+				}
+
+.bx_pager 		{
+				position:absolute;
+				bottom:35px;
+				right:69px;
+				}
+				
+.bxslider_wrap a.prev,
+.bxslider_wrap a.next	{
+				width:55px;
+				height:56px;
+				display:block;
+				overflow:hidden;
+				outline:none;
+				text-indent:-9999px;
+				position:absolute;
+				}
+				
+.bxslider_wrap a.prev	{
+				top:150px;
+				left:20px;
+				}
+
+.bxslider_wrap a.next	{
+				top:150px;
+				right:20px;
+				}
+
+.bx_pager a 	{
+				width:16px;
+				height:15px;
+				display:block;
+				text-indent:-9999px;
+				outline:none;
+				margin-right:3px;
+				float:left;
+				position:relative;
+				z-index:99;
+				cursor:pointer;
+				background:url(../images/bullets.png) -17px 0 no-repeat;
+				}
+
+.bx_pager a.active {
+				font-weight:bold;
+				background:url(../images/bullets.png) 0 0 no-repeat;
+				}

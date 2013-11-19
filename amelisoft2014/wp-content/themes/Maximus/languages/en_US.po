@@ -1,0 +1,1275 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Maximus\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-12-18 14:54+0200\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-KeywordsList: __;_e;_n;_x\n"
+"X-Poedit-Basepath: Z:\\home\\com\\csscollector\\portfolio\\maximus-wp\\wp-content\\themes\\\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SearchPath-0: Maximus\n"
+
+#: Maximus/comments.php:15
+msgid "This post is password protected. Enter the password to view any comments."
+msgstr "This post is password protected. Enter the password to view any comments."
+
+#: Maximus/comments.php:31
+msgid "Discussion"
+msgstr "Discussion"
+
+#: Maximus/comments.php:32
+msgid "One Comment"
+msgstr "One Comment"
+
+#: Maximus/comments.php:38
+#: Maximus/comments.php:57
+msgid "Older Comments"
+msgstr "Older Comments"
+
+#: Maximus/comments.php:39
+#: Maximus/comments.php:58
+msgid "Newer Comments"
+msgstr "Newer Comments"
+
+#: Maximus/comments.php:69
+msgid "Comments are closed."
+msgstr "Comments are closed."
+
+#: Maximus/comments.php:77
+msgid "Submit Comment"
+msgstr "Submit Comment"
+
+#: Maximus/comments.php:78
+msgid "Your Message:"
+msgstr "Your Message:"
+
+#: Maximus/footer.php:31
+msgid "Stay Connected"
+msgstr "Stay Connected"
+
+#: Maximus/footer.php:32
+msgid "RSS Feed"
+msgstr "RSS Feed"
+
+#: Maximus/footer.php:33
+msgid "Delicious"
+msgstr "Delicious"
+
+#: Maximus/footer.php:34
+msgid "Flickr"
+msgstr "Flickr"
+
+#: Maximus/footer.php:35
+msgid "Twitter"
+msgstr "Twitter"
+
+#: Maximus/footer.php:36
+msgid "Facebook"
+msgstr "Facebook"
+
+#: Maximus/header.php:35
+#, php-format
+msgid "Page %s"
+msgstr "Page %s"
+
+#: Maximus/loop-gallery.php:9
+msgid "Switch Thumb"
+msgstr "Switch Thumb"
+
+#: Maximus/loop-gallery.php:28
+msgid "Read More"
+msgstr "Read More"
+
+#: Maximus/loop-single.php:3
+#: Maximus/loop.php:36
+msgid "Posted by"
+msgstr "Posted by"
+
+#: Maximus/loop-single.php:3
+#: Maximus/loop.php:36
+msgid "in"
+msgstr "in"
+
+#: Maximus/loop-single.php:3
+#: Maximus/loop.php:36
+msgid "on"
+msgstr "on"
+
+#: Maximus/loop.php:39
+msgid "Continue Reading"
+msgstr "Continue Reading"
+
+#: Maximus/loop.php:39
+msgid "Continue Reading &raquo;"
+msgstr "Continue Reading &raquo;"
+
+#: Maximus/part-no_results.php:2
+msgid "No Results Found"
+msgstr "No Results Found"
+
+#: Maximus/part-no_results.php:3
+msgid "The page you requested could not be found. Try refining your search, or use the navigation above to locate the post."
+msgstr "The page you requested could not be found. Try refining your search, or use the navigation above to locate the post."
+
+#: Maximus/part-title.php:23
+msgid "Error 404 - Page Not Found"
+msgstr "Error 404 - Page Not Found"
+
+#: Maximus/part-title.php:40
+#, php-format
+msgid "Search result for: <span>%s</span>"
+msgstr "Search result for: <span>%s</span>"
+
+#: Maximus/part-title.php:42
+#, php-format
+msgid "Posts by: <span>%s</span>"
+msgstr "Posts by: <span>%s</span>"
+
+#: Maximus/part-title.php:45
+#, php-format
+msgid "Daily Archives: <span>%s</span>"
+msgstr "Daily Archives: <span>%s</span>"
+
+#: Maximus/part-title.php:47
+#, php-format
+msgid "Monthly Archives: <span>%s</span>"
+msgstr "Monthly Archives: <span>%s</span>"
+
+#: Maximus/part-title.php:49
+#, php-format
+msgid "Yearly Archives: <span>%s</span>"
+msgstr "Yearly Archives: <span>%s</span>"
+
+#: Maximus/part-title.php:51
+msgid "All Archives"
+msgstr "All Archives"
+
+#: Maximus/sidebar-side.php:24
+msgid "Search"
+msgstr "Search"
+
+#: Maximus/sidebar-side.php:29
+msgid "Archives"
+msgstr "Archives"
+
+#: Maximus/sidebar-side.php:36
+msgid "Meta"
+msgstr "Meta"
+
+#: Maximus/functions/breadcrumbs.php:33
+#, php-format
+msgid "View all posts in %s"
+msgstr "View all posts in %s"
+
+#: Maximus/functions/breadcrumbs.php:39
+msgid "Home"
+msgstr "Home"
+
+#: Maximus/functions/breadcrumbs.php:59
+msgid "&nbsp;"
+msgstr "&nbsp;"
+
+#: Maximus/functions/breadcrumbs.php:81
+msgid "Posts classified under:"
+msgstr "Posts classified under:"
+
+#: Maximus/functions/breadcrumbs.php:140
+msgid "Search results for:"
+msgstr "Search results for:"
+
+#: Maximus/functions/breadcrumbs.php:143
+msgid "Posts tagged:"
+msgstr "Posts tagged:"
+
+#: Maximus/functions/breadcrumbs.php:150
+msgid "Articles posted by:"
+msgstr "Articles posted by:"
+
+#: Maximus/functions/breadcrumbs.php:153
+msgid "Error 404"
+msgstr "Error 404"
+
+#: Maximus/functions/breadcrumbs.php:158
+msgid "Page"
+msgstr "Page"
+
+#: Maximus/functions/colors.php:4
+msgid "Orange"
+msgstr "Orange"
+
+#: Maximus/functions/colors.php:5
+msgid "lime"
+msgstr "lime"
+
+#: Maximus/functions/colors.php:6
+msgid "black"
+msgstr "black"
+
+#: Maximus/functions/colors.php:7
+msgid "blue"
+msgstr "blue"
+
+#: Maximus/functions/colors.php:8
+msgid "green"
+msgstr "green"
+
+#: Maximus/functions/colors.php:9
+msgid "magenta"
+msgstr "magenta"
+
+#: Maximus/functions/colors.php:10
+msgid "silver"
+msgstr "silver"
+
+#: Maximus/functions/colors.php:11
+msgid "purple"
+msgstr "purple"
+
+#: Maximus/functions/colors.php:12
+msgid "skyblue"
+msgstr "skyblue"
+
+#: Maximus/functions/colors.php:13
+msgid "golden"
+msgstr "golden"
+
+#: Maximus/functions/colors.php:14
+msgid "pink"
+msgstr "pink"
+
+#: Maximus/functions/colors.php:15
+msgid "emerald"
+msgstr "emerald"
+
+#: Maximus/functions/colors.php:16
+msgid "violet"
+msgstr "violet"
+
+#: Maximus/functions/colors.php:17
+msgid "deepblue"
+msgstr "deepblue"
+
+#: Maximus/functions/colors.php:18
+msgid "darkred"
+msgstr "darkred"
+
+#: Maximus/functions/colors.php:19
+msgid "lightbrown"
+msgstr "lightbrown"
+
+#: Maximus/functions/colors.php:20
+msgid "darkgreen"
+msgstr "darkgreen"
+
+#: Maximus/functions/colors.php:21
+msgid "red"
+msgstr "red"
+
+#: Maximus/functions/colors.php:22
+msgid "brown"
+msgstr "brown"
+
+#: Maximus/functions/colors.php:23
+msgid "yellow"
+msgstr "yellow"
+
+#: Maximus/functions/colors.php:24
+msgid "darkviolet"
+msgstr "darkviolet"
+
+#: Maximus/functions/colors.php:25
+msgid "metallicblue"
+msgstr "metallicblue"
+
+#: Maximus/functions/colors.php:26
+msgid "lightbeige"
+msgstr "lightbeige"
+
+#: Maximus/functions/colors.php:27
+msgid "bordo"
+msgstr "bordo"
+
+#: Maximus/functions/colors.php:28
+msgid "ocean"
+msgstr "ocean"
+
+#: Maximus/functions/comments.php:22
+#: Maximus/functions/comments.php:41
+msgid "(Edit)"
+msgstr "(Edit)"
+
+#: Maximus/functions/comments.php:26
+msgid "Your comment is awaiting moderation."
+msgstr "Your comment is awaiting moderation."
+
+#: Maximus/functions/comments.php:41
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: Maximus/functions/comments.php:52
+msgid "Your Name"
+msgstr "Your Name"
+
+#: Maximus/functions/comments.php:52
+#: Maximus/functions/comments.php:53
+msgid "required"
+msgstr "required"
+
+#: Maximus/functions/comments.php:53
+msgid "E-mail"
+msgstr "E-mail"
+
+#: Maximus/functions/comments.php:53
+msgid "will not be published"
+msgstr "will not be published"
+
+#: Maximus/functions/comments.php:54
+msgid "Website"
+msgstr "Website"
+
+#: Maximus/functions/core.php:45
+msgid "Primary Navigation"
+msgstr "Primary Navigation"
+
+#: Maximus/functions/options.php:5
+#: Maximus/functions/options.php:6
+msgid "Theme Options"
+msgstr "Theme Options"
+
+#: Maximus/functions/options.php:10
+msgid "General Settings"
+msgstr "General Settings"
+
+#: Maximus/functions/options.php:13
+msgid "Display Color Switcher?"
+msgstr "Display Color Switcher?"
+
+#: Maximus/functions/options.php:15
+msgid "Check this to display color switcher on the frontend."
+msgstr "Check this to display color switcher on the frontend."
+
+#: Maximus/functions/options.php:20
+msgid "Choose website color scheme:"
+msgstr "Choose website color scheme:"
+
+#: Maximus/functions/options.php:26
+msgid "Logo width"
+msgstr "Logo width"
+
+#: Maximus/functions/options.php:31
+msgid "Logo height"
+msgstr "Logo height"
+
+#: Maximus/functions/options.php:36
+msgid "Upload Logo:"
+msgstr "Upload Logo:"
+
+#: Maximus/functions/options.php:42
+msgid "Upload Favicon:"
+msgstr "Upload Favicon:"
+
+#: Maximus/functions/options.php:45
+msgid "File type: .ico or .png File dimensions: 16x16, 32x32."
+msgstr "File type: .ico or .png File dimensions: 16x16, 32x32."
+
+#: Maximus/functions/options.php:49
+msgid "Default side sidebar:"
+msgstr "Default side sidebar:"
+
+#: Maximus/functions/options.php:52
+msgid "Choose sidebar for side of page."
+msgstr "Choose sidebar for side of page."
+
+#: Maximus/functions/options.php:56
+msgid "Default bottom sidebar:"
+msgstr "Default bottom sidebar:"
+
+#: Maximus/functions/options.php:59
+msgid "Choose sidebar for bottom of page."
+msgstr "Choose sidebar for bottom of page."
+
+#: Maximus/functions/options.php:63
+msgid "Page of error 404:"
+msgstr "Page of error 404:"
+
+#: Maximus/functions/options.php:65
+msgid "Embedded 404 page"
+msgstr "Embedded 404 page"
+
+#: Maximus/functions/options.php:66
+msgid "Select your 404 page."
+msgstr "Select your 404 page."
+
+#: Maximus/functions/options.php:71
+msgid "Default layout for pages:"
+msgstr "Default layout for pages:"
+
+#: Maximus/functions/options.php:74
+msgid "Select default layout for pages."
+msgstr "Select default layout for pages."
+
+#: Maximus/functions/options.php:79
+msgid "Default layout for blog:"
+msgstr "Default layout for blog:"
+
+#: Maximus/functions/options.php:82
+msgid "Select default layout for blog."
+msgstr "Select default layout for blog."
+
+#: Maximus/functions/options.php:86
+msgid "Footer Copyright Text"
+msgstr "Footer Copyright Text"
+
+#: Maximus/functions/options.php:88
+msgid "Type a copyright text."
+msgstr "Type a copyright text."
+
+#: Maximus/functions/options.php:93
+msgid "Sliders Manager"
+msgstr "Sliders Manager"
+
+#: Maximus/functions/options.php:105
+msgid "Slider category:"
+msgstr "Slider category:"
+
+#: Maximus/functions/options.php:108
+msgid "Select a category for slider."
+msgstr "Select a category for slider."
+
+#: Maximus/functions/options.php:112
+msgid "Order By:"
+msgstr "Order By:"
+
+#: Maximus/functions/options.php:115
+msgid "No order"
+msgstr "No order"
+
+#: Maximus/functions/options.php:116
+msgid "Randomly"
+msgstr "Randomly"
+
+#: Maximus/functions/options.php:117
+msgid "Author"
+msgstr "Author"
+
+#: Maximus/functions/options.php:118
+msgid "Date"
+msgstr "Date"
+
+#: Maximus/functions/options.php:119
+msgid "Title Name"
+msgstr "Title Name"
+
+#: Maximus/functions/options.php:120
+msgid "Modified"
+msgstr "Modified"
+
+#: Maximus/functions/options.php:121
+msgid "Parent"
+msgstr "Parent"
+
+#: Maximus/functions/options.php:122
+msgid "ID"
+msgstr "ID"
+
+#: Maximus/functions/options.php:123
+msgid "Comments"
+msgstr "Comments"
+
+#: Maximus/functions/options.php:124
+msgid "Tag"
+msgstr "Tag"
+
+#: Maximus/functions/options.php:126
+msgid "Choose an option to order Slides."
+msgstr "Choose an option to order Slides."
+
+#: Maximus/functions/options.php:130
+msgid "Sort Type:"
+msgstr "Sort Type:"
+
+#: Maximus/functions/options.php:133
+msgid "Ascendent"
+msgstr "Ascendent"
+
+#: Maximus/functions/options.php:134
+msgid "Descendent"
+msgstr "Descendent"
+
+#: Maximus/functions/options.php:139
+msgid "Slider Tag:"
+msgstr "Slider Tag:"
+
+#: Maximus/functions/options.php:141
+msgid "All items tagged with this value will appear on the slider."
+msgstr "All items tagged with this value will appear on the slider."
+
+#: Maximus/functions/options.php:145
+msgid "Number of Slides:"
+msgstr "Number of Slides:"
+
+#: Maximus/functions/options.php:147
+msgid "Number of slides to be displayed."
+msgstr "Number of slides to be displayed."
+
+#: Maximus/functions/options.php:152
+msgid "Display post description?"
+msgstr "Display post description?"
+
+#: Maximus/functions/options.php:154
+msgid "Check this to display a post description on the slider images."
+msgstr "Check this to display a post description on the slider images."
+
+#: Maximus/functions/options.php:158
+msgid "Nivo Slider"
+msgstr "Nivo Slider"
+
+#: Maximus/functions/options.php:161
+msgid "Sliding Effect:"
+msgstr "Sliding Effect:"
+
+#: Maximus/functions/options.php:164
+msgid "Down"
+msgstr "Down"
+
+#: Maximus/functions/options.php:165
+msgid "DownLeft"
+msgstr "DownLeft"
+
+#: Maximus/functions/options.php:166
+msgid "Up"
+msgstr "Up"
+
+#: Maximus/functions/options.php:167
+msgid "UpLeft"
+msgstr "UpLeft"
+
+#: Maximus/functions/options.php:168
+msgid "UpDown"
+msgstr "UpDown"
+
+#: Maximus/functions/options.php:169
+msgid "UpDownLeft"
+msgstr "UpDownLeft"
+
+#: Maximus/functions/options.php:170
+msgid "Fold"
+msgstr "Fold"
+
+#: Maximus/functions/options.php:171
+msgid "Fade"
+msgstr "Fade"
+
+#: Maximus/functions/options.php:172
+msgid "Random"
+msgstr "Random"
+
+#: Maximus/functions/options.php:174
+msgid "Choose an effect of changing slides."
+msgstr "Choose an effect of changing slides."
+
+#: Maximus/functions/options.php:178
+msgid "Number of slices:"
+msgstr "Number of slices:"
+
+#: Maximus/functions/options.php:184
+msgid "Animation Speed:"
+msgstr "Animation Speed:"
+
+#: Maximus/functions/options.php:186
+#: Maximus/functions/options.php:193
+msgid "Type an amount of time slide transition lasts (in milliseconds)."
+msgstr "Type an amount of time slide transition lasts (in milliseconds)."
+
+#: Maximus/functions/options.php:191
+msgid "Pause Time:"
+msgstr "Pause Time:"
+
+#: Maximus/functions/options.php:198
+msgid "Direction Navigation:"
+msgstr "Direction Navigation:"
+
+#: Maximus/functions/options.php:200
+msgid "Check this to display \"Prev\" & \"Next\" buttons."
+msgstr "Check this to display \"Prev\" & \"Next\" buttons."
+
+#: Maximus/functions/options.php:204
+msgid "Show/Hide Direction Navigation when mouse over:"
+msgstr "Show/Hide Direction Navigation when mouse over:"
+
+#: Maximus/functions/options.php:206
+msgid "Check this to show \"Prev\" & \"Next\" buttons when mouse is over slides."
+msgstr "Check this to show \"Prev\" & \"Next\" buttons when mouse is over slides."
+
+#: Maximus/functions/options.php:210
+msgid "Control Navigation:"
+msgstr "Control Navigation:"
+
+#: Maximus/functions/options.php:212
+msgid "Check this to display control navigation (rounded bullets)."
+msgstr "Check this to display control navigation (rounded bullets)."
+
+#: Maximus/functions/options.php:216
+msgid "Pause On Hover:"
+msgstr "Pause On Hover:"
+
+#: Maximus/functions/options.php:218
+msgid "Determines if slideshow will pause while mouse is hovering over slideshow."
+msgstr "Determines if slideshow will pause while mouse is hovering over slideshow."
+
+#: Maximus/functions/options.php:221
+msgid "S3 Slider"
+msgstr "S3 Slider"
+
+#: Maximus/functions/options.php:224
+msgid "Title position:"
+msgstr "Title position:"
+
+#: Maximus/functions/options.php:227
+msgid "Left"
+msgstr "Left"
+
+#: Maximus/functions/options.php:228
+msgid "Right"
+msgstr "Right"
+
+#: Maximus/functions/options.php:229
+msgid "Left & Right"
+msgstr "Left & Right"
+
+#: Maximus/functions/options.php:231
+msgid "Choose a title position."
+msgstr "Choose a title position."
+
+#: Maximus/functions/options.php:235
+msgid "Time out:"
+msgstr "Time out:"
+
+#: Maximus/functions/options.php:238
+msgid "Set the speed animation"
+msgstr "Set the speed animation"
+
+#: Maximus/functions/options.php:241
+msgid "Google Analytics"
+msgstr "Google Analytics"
+
+#: Maximus/functions/options.php:244
+msgid "Use Google Analytics Code"
+msgstr "Use Google Analytics Code"
+
+#: Maximus/functions/options.php:246
+msgid "Check this if you want to enable Google Analytics Code"
+msgstr "Check this if you want to enable Google Analytics Code"
+
+#: Maximus/functions/options.php:250
+msgid "Google Analytics Code:"
+msgstr "Google Analytics Code:"
+
+#: Maximus/functions/options.php:252
+msgid "Enter your full Google Analytics code (or any other site tracking code) here. It will be inserted before the closing body tag."
+msgstr "Enter your full Google Analytics code (or any other site tracking code) here. It will be inserted before the closing body tag."
+
+#: Maximus/functions/options.php:256
+#: Maximus/functions/post_types.php:113
+msgid "Gallery"
+msgstr "Gallery"
+
+#: Maximus/functions/options.php:259
+msgid "Show gallery switcher"
+msgstr "Show gallery switcher"
+
+#: Maximus/functions/options.php:261
+msgid "Check this if you want to show gallery template switcher"
+msgstr "Check this if you want to show gallery template switcher"
+
+#: Maximus/functions/options.php:265
+msgid "Select a view type:"
+msgstr "Select a view type:"
+
+#: Maximus/functions/options.php:268
+msgid "Grid view"
+msgstr "Grid view"
+
+#: Maximus/functions/options.php:269
+msgid "List view"
+msgstr "List view"
+
+#: Maximus/functions/options.php:271
+msgid "Choose a gallery view type. (only works when galery switcher is disabled)"
+msgstr "Choose a gallery view type. (only works when galery switcher is disabled)"
+
+#: Maximus/functions/options.php:276
+msgid "Posts per page of gallery:"
+msgstr "Posts per page of gallery:"
+
+#: Maximus/functions/options.php:282
+msgid "Social"
+msgstr "Social"
+
+#: Maximus/functions/options.php:285
+msgid "Type a link to RSS:"
+msgstr "Type a link to RSS:"
+
+#: Maximus/functions/options.php:292
+msgid "Type a link to Delicious:"
+msgstr "Type a link to Delicious:"
+
+#: Maximus/functions/options.php:299
+msgid "Type a link to Flickr:"
+msgstr "Type a link to Flickr:"
+
+#: Maximus/functions/options.php:306
+msgid "Type a link to Twitter:"
+msgstr "Type a link to Twitter:"
+
+#: Maximus/functions/options.php:313
+msgid "Type a link to Facebook:"
+msgstr "Type a link to Facebook:"
+
+#: Maximus/functions/post_types.php:14
+msgid "Page description"
+msgstr "Page description"
+
+#: Maximus/functions/post_types.php:15
+msgid "Select a slider"
+msgstr "Select a slider"
+
+#: Maximus/functions/post_types.php:16
+#: Maximus/functions/post_types.php:17
+msgid "Featured Box"
+msgstr "Featured Box"
+
+#: Maximus/functions/post_types.php:18
+msgid "Video File"
+msgstr "Video File"
+
+#: Maximus/functions/post_types.php:27
+msgid "Video:"
+msgstr "Video:"
+
+#: Maximus/functions/post_types.php:50
+msgid "Select a slider:"
+msgstr "Select a slider:"
+
+#: Maximus/functions/post_types.php:61
+msgid "Page description:"
+msgstr "Page description:"
+
+#: Maximus/functions/post_types.php:112
+msgid "Galleries"
+msgstr "Galleries"
+
+#: Maximus/functions/short_codes.php:318
+msgid "Get the Code"
+msgstr "Get the Code"
+
+#: Maximus/functions/sidebars.php:5
+msgid "Default Sidebar Widget Area"
+msgstr "Default Sidebar Widget Area"
+
+#: Maximus/functions/sidebars.php:7
+msgid "The default sidebar of page widget area"
+msgstr "The default sidebar of page widget area"
+
+#: Maximus/functions/sidebars.php:48
+msgid "Sidebar successfully added."
+msgstr "Sidebar successfully added."
+
+#: Maximus/functions/sidebars.php:50
+msgid "Sidebar already exists, please use a different name."
+msgstr "Sidebar already exists, please use a different name."
+
+#: Maximus/functions/sidebars.php:53
+msgid "Sidebar name cannot by empty."
+msgstr "Sidebar name cannot by empty."
+
+#: Maximus/functions/sidebars.php:71
+msgid "Sidebar successfully removed."
+msgstr "Sidebar successfully removed."
+
+#: Maximus/functions/sidebars.php:73
+msgid "This sidebar is not possible to remove."
+msgstr "This sidebar is not possible to remove."
+
+#: Maximus/functions/sidebars.php:76
+msgid "This sidebar does not exist."
+msgstr "This sidebar does not exist."
+
+#: Maximus/functions/sidebars.php:103
+msgid "Sidebar managment"
+msgstr "Sidebar managment"
+
+#: Maximus/functions/sidebars.php:110
+msgid "Enter name for a new sidebar:"
+msgstr "Enter name for a new sidebar:"
+
+#: Maximus/functions/sidebars.php:112
+msgid "Add"
+msgstr "Add"
+
+#: Maximus/functions/sidebars.php:115
+msgid "Enter description for a new sidebar:"
+msgstr "Enter description for a new sidebar:"
+
+#: Maximus/functions/sidebars.php:124
+msgid "Select a sidebar to delete:"
+msgstr "Select a sidebar to delete:"
+
+#: Maximus/functions/sidebars.php:130
+msgid "Delete"
+msgstr "Delete"
+
+#: Maximus/functions/sidebars.php:197
+#: Maximus/functions/sidebars.php:198
+msgid "Layout options"
+msgstr "Layout options"
+
+#: Maximus/functions/sidebars.php:204
+msgid "With right sidebar"
+msgstr "With right sidebar"
+
+#: Maximus/functions/sidebars.php:205
+msgid "With left sidebar"
+msgstr "With left sidebar"
+
+#: Maximus/functions/sidebars.php:206
+msgid "Full width"
+msgstr "Full width"
+
+#: Maximus/functions/sidebars.php:221
+msgid "Select layout:"
+msgstr "Select layout:"
+
+#: Maximus/functions/sidebars.php:223
+#: Maximus/functions/sidebars.php:234
+#: Maximus/functions/sidebars.php:246
+msgid "Default"
+msgstr "Default"
+
+#: Maximus/functions/sidebars.php:232
+msgid "Select side bar:"
+msgstr "Select side bar:"
+
+#: Maximus/functions/sidebars.php:235
+#: Maximus/functions/sidebars.php:247
+msgid "Disable sidebar"
+msgstr "Disable sidebar"
+
+#: Maximus/functions/sidebars.php:244
+msgid "Select bottom bar:"
+msgstr "Select bottom bar:"
+
+#: Maximus/functions/sliders.php:5
+msgid "None"
+msgstr "None"
+
+#: Maximus/functions/sliders.php:6
+msgid "s3"
+msgstr "s3"
+
+#: Maximus/functions/sliders.php:7
+msgid "slideshow"
+msgstr "slideshow"
+
+#: Maximus/functions/sliders.php:8
+msgid "nivo1"
+msgstr "nivo1"
+
+#: Maximus/functions/sliders.php:9
+msgid "nivo2"
+msgstr "nivo2"
+
+#: Maximus/functions/sliders.php:10
+msgid "nivo3"
+msgstr "nivo3"
+
+#: Maximus/functions/sliders.php:11
+msgid "nivo4"
+msgstr "nivo4"
+
+#: Maximus/functions/sliders.php:130
+#: Maximus/functions/sliders.php:148
+msgid "read more"
+msgstr "read more"
+
+#: Maximus/functions/admin_options/AdminPageFactory.php:48
+#, php-format
+msgid "Unable to load class: %s"
+msgstr "Unable to load class: %s"
+
+#: Maximus/functions/admin_options/AdminPageSection.php:18
+#, php-format
+msgid "Class \"%s\" not found."
+msgstr "Class \"%s\" not found."
+
+#: Maximus/functions/admin_options/CustomAdminPage.php:12
+msgid "Title not defined."
+msgstr "Title not defined."
+
+#: Maximus/functions/admin_options/CustomAdminPage.php:14
+msgid "Menu title not defined."
+msgstr "Menu title not defined."
+
+#: Maximus/functions/admin_options/CustomAdminPage.php:16
+msgid "Capability not defined."
+msgstr "Capability not defined."
+
+#: Maximus/functions/admin_options/CustomAdminPage.php:18
+msgid "Slug not defined."
+msgstr "Slug not defined."
+
+#: Maximus/widgets/widget-flickr.php:6
+msgid "A widget that displays your Flickr photos."
+msgstr "A widget that displays your Flickr photos."
+
+#: Maximus/widgets/widget-flickr.php:7
+msgid "Flickr +"
+msgstr "Flickr +"
+
+#: Maximus/widgets/widget-flickr.php:47
+msgid "Flickr Photos"
+msgstr "Flickr Photos"
+
+#: Maximus/widgets/widget-flickr.php:60
+msgid "Title:"
+msgstr "Title:"
+
+#: Maximus/widgets/widget-flickr.php:61
+msgid "Flickr ID:"
+msgstr "Flickr ID:"
+
+#: Maximus/widgets/widget-flickr.php:62
+msgid "Number of photos to show:"
+msgstr "Number of photos to show:"
+
+#: Maximus/widgets/widget-flickr.php:64
+msgid "Display type:"
+msgstr "Display type:"
+
+#: Maximus/widgets/widget-flickr.php:67
+msgid "Latest"
+msgstr "Latest"
+
+#: Maximus/widgets/widget-flickr.php:70
+msgid "Where the photos are pulled from:"
+msgstr "Where the photos are pulled from:"
+
+#: Maximus/widgets/widget-flickr.php:72
+msgid "user"
+msgstr "user"
+
+#: Maximus/widgets/widget-flickr.php:73
+msgid "group"
+msgstr "group"
+
+#: Maximus/widgets/widget-recent-proj.php:7
+msgid "The most recent projects on your site with slider"
+msgstr "The most recent projects on your site with slider"
+
+#: Maximus/widgets/widget-recent-proj.php:8
+msgid "Recent Projects +"
+msgstr "Recent Projects +"
+
+#: Maximus/widgets/widget-recent-proj.php:90
+msgid "Recent Projects"
+msgstr "Recent Projects"
+
+#: Maximus/widgets/widget-recent-proj.php:108
+#: Maximus/widgets/widget-recent.php:116
+msgid "Number of posts to show:"
+msgstr "Number of posts to show:"
+
+#: Maximus/widgets/widget-recent-proj.php:110
+msgid "Select projects category:"
+msgstr "Select projects category:"
+
+#: Maximus/widgets/widget-recent-proj.php:112
+#: Maximus/widgets/widget-recent.php:120
+msgid "All Categolries"
+msgstr "All Categolries"
+
+#: Maximus/widgets/widget-recent-proj.php:120
+msgid "Show post title?"
+msgstr "Show post title?"
+
+#: Maximus/widgets/widget-recent-proj.php:123
+#: Maximus/widgets/widget-recent.php:144
+msgid "Show post excerpt?"
+msgstr "Show post excerpt?"
+
+#: Maximus/widgets/widget-recent-proj.php:125
+#: Maximus/widgets/widget-recent.php:146
+msgid "Excerpt length:"
+msgstr "Excerpt length:"
+
+#: Maximus/widgets/widget-recent.php:6
+msgid "The most recent posts on your site with thumbnails"
+msgstr "The most recent posts on your site with thumbnails"
+
+#: Maximus/widgets/widget-recent.php:7
+msgid "Recent Posts +"
+msgstr "Recent Posts +"
+
+#: Maximus/widgets/widget-recent.php:93
+msgid "Recent Posts"
+msgstr "Recent Posts"
+
+#: Maximus/widgets/widget-recent.php:118
+msgid "Select posts category:"
+msgstr "Select posts category:"
+
+#: Maximus/widgets/widget-recent.php:130
+msgid "Show post thumbnail?"
+msgstr "Show post thumbnail?"
+
+#: Maximus/widgets/widget-recent.php:133
+msgid "Select thumbnail size:"
+msgstr "Select thumbnail size:"
+
+#: Maximus/widgets/widget-recent.php:148
+msgid "Show post date?"
+msgstr "Show post date?"
+
+#: Maximus/widgets/widget-tabbed.php:14
+msgid "A tabbed widget that display popular posts, recent posts, comments and tags."
+msgstr "A tabbed widget that display popular posts, recent posts, comments and tags."
+
+#: Maximus/widgets/widget-tabbed.php:20
+msgid "Custom Tabbed Widget +"
+msgstr "Custom Tabbed Widget +"
+
+#: Maximus/widgets/widget-tabbed.php:72
+msgid "No comments"
+msgstr "No comments"
+
+#: Maximus/widgets/widget-tabbed.php:72
+msgid "1 Comment"
+msgstr "1 Comment"
+
+#: Maximus/widgets/widget-tabbed.php:72
+msgid "% Comments"
+msgstr "% Comments"
+
+#: Maximus/widgets/widget-tabbed.php:114
+#: Maximus/widgets/widget-tabbed.php:116
+msgid "on "
+msgstr "on "
+
+#: Maximus/widgets/widget-tabbed.php:171
+msgid "Tab 1 Title:"
+msgstr "Tab 1 Title:"
+
+#: Maximus/widgets/widget-tabbed.php:177
+msgid "Tab 2 Title:"
+msgstr "Tab 2 Title:"
+
+#: Maximus/widgets/widget-tabbed.php:183
+msgid "Tab 3 Title:"
+msgstr "Tab 3 Title:"
+
+#~ msgid "Not Found"
+#~ msgstr "Not Found"
+#~ msgid ""
+#~ "Apologies, but the page you requested could not be found. Perhaps "
+#~ "searching will help."
+#~ msgstr ""
+#~ "Apologies, but the page you requested could not be found. Perhaps "
+#~ "searching will help."
+#~ msgid "Leave a Comment"
+#~ msgstr "Leave a Comment"
+#~ msgid "Leave a Comment to %s"
+#~ msgstr "Leave a Comment to %s"
+#~ msgid "Learn More"
+#~ msgstr "Learn More"
+#~ msgid "Posted on"
+#~ msgstr "Posted on"
+#~ msgid "Edit"
+#~ msgstr "Edit"
+#~ msgid "Posted in"
+#~ msgstr "Posted in"
+#~ msgid "Tagged"
+#~ msgstr "Tagged"
+#~ msgid "Search Results Page"
+#~ msgstr "Search Results Page"
+#~ msgid "Footer Navigation"
+#~ msgstr "Footer Navigation"
+#~ msgid "said"
+#~ msgstr "said"
+#~ msgid "%s ago"
+#~ msgstr "%s ago"
+#~ msgid "Color Options"
+#~ msgstr "Color Options"
+#~ msgid "Moray"
+#~ msgstr "Moray"
+#~ msgid "Required Dimensions: 300px × 90px."
+#~ msgstr "Required Dimensions: 300px × 90px."
+#~ msgid "Home Page Options"
+#~ msgstr "Home Page Options"
+#~ msgid "Home Page Boxes Post Type:"
+#~ msgstr "Home Page Boxes Post Type:"
+#~ msgid "Portfolio"
+#~ msgstr "Portfolio"
+#~ msgid "Posts"
+#~ msgstr "Posts"
+#~ msgid "Choose necessary option to get featured boxes from."
+#~ msgstr "Choose necessary option to get featured boxes from."
+#~ msgid "Chose an option to order featured boxes."
+#~ msgstr "Chose an option to order featured boxes."
+#~ msgid "ASC"
+#~ msgstr "ASC"
+#~ msgid "DESC"
+#~ msgstr "DESC"
+#~ msgid "Home Page Boxes Tag (slug)"
+#~ msgstr "Home Page Boxes Tag (slug)"
+#~ msgid ""
+#~ "All items tagged with this value will appear in the Home Page Boxes. "
+#~ "(Required only for POSTS or PORTFOLIO post types and only appear if "
+#~ "\"Order By\" Option = TAG"
+#~ msgstr ""
+#~ "All items tagged with this value will appear in the Home Page Boxes. "
+#~ "(Required only for POSTS or PORTFOLIO post types and only appear if "
+#~ "\"Order By\" Option = TAG"
+#~ msgid "Portfolio Page Options"
+#~ msgstr "Portfolio Page Options"
+#~ msgid "Chose an option to order portfolio items."
+#~ msgstr "Chose an option to order portfolio items."
+#~ msgid "Portfolio layout"
+#~ msgstr "Portfolio layout"
+#~ msgid "2 columns"
+#~ msgstr "2 columns"
+#~ msgid "3 columns"
+#~ msgstr "3 columns"
+#~ msgid "4 columns"
+#~ msgstr "4 columns"
+#~ msgid "Slider Options"
+#~ msgstr "Slider Options"
+#~ msgid "Choose a Slider Type:"
+#~ msgstr "Choose a Slider Type:"
+#~ msgid "Round Slider"
+#~ msgstr "Round Slider"
+#~ msgid "Slider to be Displayed in Header."
+#~ msgstr "Slider to be Displayed in Header."
+#~ msgid "Display Slider for subpages:"
+#~ msgstr "Display Slider for subpages:"
+#~ msgid "Choose necessary option to display slides from."
+#~ msgstr "Choose necessary option to display slides from."
+#~ msgid ""
+#~ "All items tagged with this value will appear in the slider. (Required "
+#~ "only for POSTS or PORTFOLIO post types and only appear if \"Order By\" "
+#~ "Option = TAG)"
+#~ msgstr ""
+#~ "All items tagged with this value will appear in the slider. (Required "
+#~ "only for POSTS or PORTFOLIO post types and only appear if \"Order By\" "
+#~ "Option = TAG)"
+#~ msgid "Nivo Slider Options"
+#~ msgstr "Nivo Slider Options"
+#~ msgid "BX Slider Options"
+#~ msgstr "BX Slider Options"
+#~ msgid "Sliding Alignment:"
+#~ msgstr "Sliding Alignment:"
+#~ msgid "Horizontal"
+#~ msgstr "Horizontal"
+#~ msgid "Vertical"
+#~ msgstr "Vertical"
+#~ msgid "Choose a direction in which slides will move."
+#~ msgstr "Choose a direction in which slides will move."
+#~ msgid "Auto Rotating:"
+#~ msgstr "Auto Rotating:"
+#~ msgid "Check this if slides will move automatically."
+#~ msgstr "Check this if slides will move automatically."
+#~ msgid "Featured Home Page Line"
+#~ msgstr "Featured Home Page Line"
+#~ msgid "Display Featured Line:"
+#~ msgstr "Display Featured Line:"
+#~ msgid ""
+#~ "Check this to display \"Featured Line\" On the Main Page (under slider)."
+#~ msgstr ""
+#~ "Check this to display \"Featured Line\" On the Main Page (under slider)."
+#~ msgid "Check this to display a date in the \"Featured Line\"."
+#~ msgstr "Check this to display a date in the \"Featured Line\"."
+#~ msgid "Type a text to be displayed before Featured Menu:"
+#~ msgstr "Type a text to be displayed before Featured Menu:"
+#~ msgid "Footer"
+#~ msgstr "Footer"
+#~ msgid "Add New Testimonial"
+#~ msgstr "Add New Testimonial"
+#~ msgid "Edit Testimonial"
+#~ msgstr "Edit Testimonial"
+#~ msgid "New Testimonial"
+#~ msgstr "New Testimonial"
+#~ msgid "View Testimonial"
+#~ msgstr "View Testimonial"
+#~ msgid "Search Testimonials"
+#~ msgstr "Search Testimonials"
+#~ msgid "No testimonials found"
+#~ msgstr "No testimonials found"
+#~ msgid "No testimonials found in Trash"
+#~ msgstr "No testimonials found in Trash"
+#~ msgid "Add New Item"
+#~ msgstr "Add New Item"
+#~ msgid "Edit Item"
+#~ msgstr "Edit Item"
+#~ msgid "New Item"
+#~ msgstr "New Item"
+#~ msgid "View Item"
+#~ msgstr "View Item"
+#~ msgid "No items found"
+#~ msgstr "No items found"
+#~ msgid "No items found in Trash"
+#~ msgstr "No items found in Trash"
+#~ msgid "Portfolio Category"
+#~ msgstr "Portfolio Category"
+#~ msgid "Page Widget Area"
+#~ msgstr "Page Widget Area"
+#~ msgid "The page widget area"
+#~ msgstr "The page widget area"
+#~ msgid "Search Results Widget Area"
+#~ msgstr "Search Results Widget Area"
+#~ msgid "The search results widget area"
+#~ msgstr "The search results widget area"
+#~ msgid "Blog Category Widget Area"
+#~ msgstr "Blog Category Widget Area"
+#~ msgid "The blog widget area"
+#~ msgstr "The blog widget area"
+#~ msgid "The Blog detailed widget area"
+#~ msgstr "The Blog detailed widget area"
+#~ msgid "Contact Page Widget Area"
+#~ msgstr "Contact Page Widget Area"
+#~ msgid "First Footer Widget Area"
+#~ msgstr "First Footer Widget Area"
+#~ msgid "The first footer widget area"
+#~ msgstr "The first footer widget area"
+#~ msgid "Second Footer Widget Area"
+#~ msgstr "Second Footer Widget Area"
+#~ msgid "The second footer widget area"
+#~ msgstr "The second footer widget area"
+#~ msgid "Third Footer Widget Area"
+#~ msgstr "Third Footer Widget Area"
+#~ msgid "The third footer widget area"
+#~ msgstr "The third footer widget area"
+#~ msgid "Fourth Footer Widget Area"
+#~ msgstr "Fourth Footer Widget Area"
+#~ msgid "The fourth footer widget area"
+#~ msgstr "The fourth footer widget area"
+#~ msgid "Address Block"
+#~ msgstr "Address Block"
+#~ msgid "Title field "
+#~ msgstr "Title field "
+#~ msgid "Content field "
+#~ msgstr "Content field "
+#~ msgid "Testimonials Posts"
+#~ msgstr "Testimonials Posts"
+#~ msgid "Testimonials"
+#~ msgstr "Testimonials"
+#~ msgid "Email:"
+#~ msgstr "Email:"
+#~ msgid "Office:"
+#~ msgstr "Office:"
+

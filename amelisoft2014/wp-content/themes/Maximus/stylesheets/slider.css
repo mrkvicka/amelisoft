@@ -1,0 +1,65 @@
+/* -------------------------- Slider ------------------------------------- */
+
+#tmpSlideshow	{
+				margin:0 auto;
+				top:30px;
+				position:relative;
+				width:928px;
+				height:370px;
+				padding:9px;
+				border:1px solid #D7D7D7;
+				background:url(../images/wide_slider_px.gif) top repeat-x #E2E2E2;
+				}
+				
+div.tmpSlide 	{
+				position: absolute;
+				top: 9px;
+				left: 9px;
+				width: 928px;
+				height: 370px;
+				display: none;
+				}
+
+div.tmpSlide img {
+				float: left;
+				width: 633px;
+				height:370px;
+				overflow:hidden;
+				}
+
+div#tmpSlideshowControls {
+				position: absolute;
+				bottom: -41px;
+				right: 0;
+}
+div.tmpSlideshowControl {
+				width:16px;
+				height:15px;
+				display:block;
+				text-indent:-9999px;
+				margin-right:3px;
+				float:left;
+				position:relative;
+				z-index:99;
+				cursor:pointer;
+				background:url(../images/bullets.png) -17px 0 no-repeat;
+}
+
+div.tmpSlideshowControlOn,
+div.tmpSlideshowControlActive {
+				font-weight:bold;
+				background:url(../images/bullets.png) 0 0 no-repeat;
+}
+
+div.tmpSlideCopy {
+				position: absolute;
+				padding: 25px 30px;
+				color: #ffffff;
+				top: 0;
+				right: 0;
+				width: 235px !important;
+				height: 320px;
+}
+div#tmpSlideshow h2 {
+    			color: #ffffff;
+}

@@ -1,0 +1,73 @@
+/* -------------------------- s3Slider ------------------------------------- */
+
+#s3slider		{
+				margin:0 auto;
+				top:30px;
+				position:relative;
+				width:928px;
+				height:370px;
+				padding:9px;
+				border:1px solid #D7D7D7;
+				background:url(../images/wide_slider_px.gif) top repeat-x #E2E2E2;
+				}
+				
+#s3slider li	{
+				margin:0;
+				padding:0;
+				list-style:none;
+				}
+
+#s3sliderContent {
+				width: 928px; /* important to be same as image width or wider */
+				height:370px;
+				overflow:hidden;
+				position: absolute;
+				top: 9px;
+				margin-left: 0;
+				}
+
+.s3sliderImage {
+				float: left;
+				position: relative;
+				display: none;
+				}
+
+.s3sliderImage .s3sliderleft,
+.s3sliderImage .s3sliderright {
+				position: absolute;
+				padding: 25px 30px;
+				filter: alpha(opacity=90);
+				-moz-opacity: 0.9;
+				-khtml-opacity: 0.9;
+				opacity: 0.9;
+				color: #ffffff;
+				display: none;
+				}
+
+#s3slider .title {
+				font:normal 2.5em Arial, Verdana, Helvetica, sans-serif;
+				padding-bottom:20px;
+				color:#ffffff;
+				display:block;
+				}
+				
+#s3slider .paragraph {
+				display:block;
+				font-weight:normal;
+				margin:0;
+				padding:0 0 1em;
+				}
+
+.s3sliderleft	{
+				top: 0;
+				left: 0;
+				width: 235px !important;
+				height: 320px;
+				}
+
+.s3sliderright {
+				right: 0;
+				top: 0;
+				width: 235px !important;
+				height: 320px;
+				}
